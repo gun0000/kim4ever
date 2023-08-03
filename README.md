@@ -21,6 +21,7 @@
 |:--------:| :--------: | :--------: | :--------: |
 | <img src="https://i.imgur.com/Ur4MNJy.png" alt="김민형" width="80" height="80">| <img src="https://i.imgur.com/o7TOHNX.png" alt="김건우" width="80" height="80"> | <img src="https://i.imgur.com/db9DxlN.png" alt="김병수" width="80" height="80"> | <img src="https://i.imgur.com/af6jvxc.png" alt="김지원" width="80" height="80"> |
 |[@kimminhyeong1](https://github.com/kimminhyeong1) | [@gun0000](https://github.com/gun0000) | [@qudtn9412](https://github.com/qudtn9412) | [@sodalitz](https://github.com/sodalitz) | 
+| | -카카오맵 API </br>-소셜 로그인</br>-자전거 대여유지</br>-자전거 반납</br>-QR 생성</br>-이메일 인증코드</br>-아이디 찾기,비밀번호 재설정</br>-주소 암호화</br>-모임 CRUD</br>-모임 게시판 CRUD</br>-모임 일정 CRUD</br>-모임 더보기,추천,찜,초대하기</br>-관리자페이지 자전거 등록</br>-대여소위치 등록,보기| | | 
 
 
 </br>
